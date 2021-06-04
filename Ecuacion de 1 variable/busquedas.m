@@ -43,7 +43,7 @@ else
     else
         if Yo*Y1<0
             fprintf('\n\nSOLUCION:\n')
-            fprintf ('El intervalo que contiene la ra�z es[%g,%g]\n\n',Xo,X1);
+            fprintf ('El intervalo que contiene la raiz es[%g,%g]\n\n',Xo,X1);
         else
             fprintf('\n\nSOLUCION:\n')
             fprintf ('Fracaso en %g iteraciones\n\n',Iter);
